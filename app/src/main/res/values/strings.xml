@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Json Data</string>
+    <string name="jsondata">
+        {
+          \"vehical\":
+              [
+                \"Linear Motion\",
+                \"Constant Accelarator Motion\",
+                \"Projectile Motion\",
+                \"Work, Power, Energy\",
+                \"Rotary Motion\",
+                \"Gravity\",
+                \"Electronics\"
+              ]
+        }
+    </string>
+</resources>
